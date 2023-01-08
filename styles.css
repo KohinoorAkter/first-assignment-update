@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans';
+    padding: 0;
+
+}
+
+/* header styles */
+.btn-primary {
+    color: #005FAC;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.header {
+    width: 1600px;
+    height: 808px;
+    margin: 0;
+    background-image: url(/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    gap: 230px;
+}
+
+.banner {
+    display: flex;
+    text-align: right;
+    margin: 0 200px;
+}
+
+.banner-title {
+
+    font-weight: 700;
+    font-size: 85px;
+    color: #FFFFFF;
+    
+
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+/* main section */
+.failures-previous-year {
+    gap: 230px;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: right;
+}
+
+.section-descriprion {
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+}
+
+.year-info-container {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    text-align: right;
+    list-style: none;
+    list-style-image: linear-gradient(to left bottom, green, yellow);
+}
+
+/* My plans */
+.my-plans {
+    margin-top: 130px;
+    display: flex;
+}
+
+.section-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: right;
+
+}
+
+.learning-container {
+    gap: 24px;
+
+}
+
+.learning {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: right;
+    background: #FFFFFF;
+
+}
+
+.learning-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: right;
+
+
+}
+
+.learning-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #757575;
+    text-align: right;
+    color: #737272;
+}
+
+/* I want */
+.i-want {
+    background-color: lightblue;
+    text-align: center;
+    list-style: none;
+    width: 1140px;
+    height: 300px;
+    margin: 0;
+    font-size: medium;
+}
+
+/* gradient overlay */
+.image {
+    width: 1140px;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./images/gradient1.png);
+    border-radius: 8px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    margin: 0;
+}
+
+/* Future and subcription */
+.future-subscribe {
+    background: #151414;
+    width: 1140px;
+    height: 500px;
+    margin: 0;
+}
+
+.title-item {
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+.item-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.info-container {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+.future-subscribe{
+    display: flex;
+    padding: 0%;
+}
