@@ -147,7 +147,7 @@
     height: 300px;
     background-position: center;
     background-size: cover;
-    background-image: url(./images/gradient1.png);
+    background-image: url(images/gradient1.png);
     border-radius: 8px;
     background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
     display: flex;
